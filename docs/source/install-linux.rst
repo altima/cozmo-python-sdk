@@ -50,7 +50,7 @@ Ubuntu 16.04
 
 2. Then install pip by typing in the following into the Terminal window::
 
-    sudo apt install python3-pip
+    sudo apt-get install python3-pip
 
 3. Last, install Tkinter::
 
